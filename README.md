@@ -31,8 +31,34 @@ Please follow the below steps to run this project.
 6. [Jaundice disease dataset](https://kaggle.com/dataset2)
    
 
-### Trailer
-https://github.com/sohammanjrekar/rcoe22-sem5-group2/assets/83022701/b63635ef-3195-4282-9e90-0b05c659fbcc
+### Project Demonstration & Screenshots
+
+#### 🎥 Demo Video
+You can find the project demo video here:
+[Download/Watch Demo Video](TE_GroupNo2_Multiple%20Disease%20Prediction%20Webapp.mp4)
+
+Or play it directly in your browser:
+<video src="TE_GroupNo2_Multiple%20Disease%20Prediction%20Webapp.mp4" width="100%" controls></video>
+
+#### 📸 App Screenshots
+
+##### 1. Home / Disease Prediction (Multiple Symptoms)
+![Home / Disease Prediction](images/disease_prediction_home.png)
+
+##### 2. Diabetes Prediction
+![Diabetes Prediction](images/diabetes_prediction.png)
+
+##### 3. Heart Disease Prediction
+![Heart Disease Prediction](images/heart_disease_prediction.png)
+
+##### 4. Liver Disease Prediction
+![Liver Disease Prediction](images/liver_prediction.png)
+
+##### 5. Jaundice Prediction
+![Jaundice Prediction](images/jaundice_prediction.png)
+
+##### 6. Hepatitis Prediction (Positive Result Example)
+![Hepatitis Prediction Result](images/hepatitis_prediction_positive.png)
 
 <br></br>
 
