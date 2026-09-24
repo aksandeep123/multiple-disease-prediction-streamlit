@@ -1,3 +1,12 @@
+import os
+import sys
+
+# Ensure current working directory is the Frontend directory so all relative paths work
+current_dir = os.path.dirname(os.path.abspath(__file__))
+os.chdir(current_dir)
+if current_dir not in sys.path:
+    sys.path.insert(0, current_dir)
+
 import streamlit as st
 import plotly.express as px
 from plotly.subplots import make_subplots
